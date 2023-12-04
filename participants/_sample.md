@@ -1,6 +1,6 @@
 ---
-Nom: <VOTRE NOM DE FAMILLE>
-Prenom: <VOTRE PRENOM>
-username: <VOTRE NOM D'UTILISATEUR GITHUB>
-github: <VOTRE LIEN GITHUB>
+Nom: <DIALLO>
+Prenom: <Mamadou Saliou>
+username: <salioudizallo>
+github: <Github/salioudizallo>
 ---
